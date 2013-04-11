@@ -15,6 +15,11 @@ directions-map img {
   max-width: none;
 }
 
+.pac-container {
+  color: rgb(85, 85, 85);
+  background-color: #fff;
+}
+
 @media (min-width: 980px) {
   body {
     padding-top: 40px;
